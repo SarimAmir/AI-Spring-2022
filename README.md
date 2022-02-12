@@ -8,5 +8,5 @@ AI has become and important aspect of Computer Science and is expected to domina
 ## Shah Muhammad Azhar 62822
 Why CS? \
 My cousion recommend to take CS and tell about the scope of CS so  i take CS
-Why?
+Why AI? \
 Because it's a great course and i am curios about it an want to learn AI and solve the problems. And also in CS it's important to learn AI basics.
