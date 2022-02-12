@@ -1,5 +1,5 @@
 # AI-Spring-2022
-##Sarim Amir 63686
+## Sarim Amir 63686
 Why CS?
 My inter percentage was not enough to get me an admission in Engineering Program.
 Why AI?
