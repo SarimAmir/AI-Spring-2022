@@ -13,6 +13,6 @@ Because it's a great course and i am curios about it an want to learn AI and sol
 
 ## Owais Zahid 64139
 Why CS? \
-To get the knowledge of computer world & technologies because it is a vast field & in the current era 70 to 80% things based on it.
+To get the knowledge of computer world & technologies because it is a vast field & in the current era 70 to 80% things based on it. \
 Why AI? \
 Because Artificial Intelligence is future & AI itself has vast domains which started solving the problems in world.
