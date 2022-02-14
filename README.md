@@ -22,3 +22,9 @@ Why CS? \
 At first I didn't know much about this field but when I came here I became interested in this field and then i found out the purpose of this field. \
 Why AI? \
 Now a days in modern technology AI is being used everywhere it reduces human work as well and the machines are also trained accordingly.   
+
+## Zain Ahmed Siddiqui
+Why CS? \
+Firstly i was not aware about this field and not even interested but the time spends i got that this is field is very vast so that we could find many things in it. \
+Why AI? \
+To know the real worth of AI and to find my mind set in it that is is it possible or not to grow my career in it.
