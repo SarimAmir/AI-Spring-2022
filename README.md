@@ -23,7 +23,7 @@ At first I didn't know much about this field but when I came here I became inter
 Why AI? \
 Now a days in modern technology AI is being used everywhere it reduces human work as well and the machines are also trained accordingly.   
 
-## Zain Ahmed Siddiqui
+## Zain Ahmed Siddiqui 64131
 Why CS? \
 Firstly i was not aware about this field and not even interested but the time spends i got that this is field is very vast so that we could find many things in it. \
 Why AI? \
