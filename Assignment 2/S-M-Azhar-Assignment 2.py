@@ -1,10 +1,7 @@
-#Name: Shah Muhammad Azhar-62822
-#
-#Libraries
+Name: Shah Muhammad Azhar-62822
 
 import pandas as pd
 import numpy as np
-#Code
 
 testDf = pd.read_csv('C:\\Users\\Azhar Khan\\Downloads\\test.csv')
 idDf = testDf[['id']]
