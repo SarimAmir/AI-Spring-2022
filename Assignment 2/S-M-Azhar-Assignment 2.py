@@ -12,6 +12,3 @@ idDf.insert(1,"target",0)
 idDf['target'] = np.random.rand(700000,1)
 print(idDf)
 idDf.to_csv('out.csv',index=False)
-
-Output:
-![Capture](https://user-images.githubusercontent.com/73800301/167296914-110e51d8-6f95-413c-b5a2-481755de8991.PNG)
