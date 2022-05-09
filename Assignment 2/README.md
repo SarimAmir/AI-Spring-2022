@@ -6,7 +6,8 @@
 ![data](https://user-images.githubusercontent.com/73800301/167296822-d415b177-3709-4938-a6e5-5295bb1e39f5.PNG)
 ### 3. Muhammad Zeeshan Saeed - 64126
 ### 4. Zain Ahmed Siddiqui - 64131
-I faced issues in rnadom probabilities generation but later solved and get understanding by google and your Code you written in the Classroom.
+I faced issues in random probabilities generation but later solved and get understanding by google and your Code you written in the Classroom.
+
 ![zain](https://user-images.githubusercontent.com/85029018/167488110-0359a4ef-377d-426c-a244-675e85e423d9.PNG)
 
 ### 5. Owais Zahid - 64139
