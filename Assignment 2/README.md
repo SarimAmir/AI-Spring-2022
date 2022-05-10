@@ -5,6 +5,10 @@
 ### 2. Shah Muhammad Azhar - 62822
 ![data](https://user-images.githubusercontent.com/73800301/167296822-d415b177-3709-4938-a6e5-5295bb1e39f5.PNG)
 ### 3. Muhammad Zeeshan Saeed - 64126
+Kaggle Submission Score Attached Below:
+![zeeshan](https://user-images.githubusercontent.com/57366208/167595982-d8c623db-2837-483d-98f4-c7e4a33d5843.PNG)
+
+
 ### 4. Zain Ahmed Siddiqui - 64131
 I faced issues in random probabilities generation but later solved and get understanding by google and your Code you written in the Classroom.
 
