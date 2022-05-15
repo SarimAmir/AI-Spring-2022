@@ -14,7 +14,7 @@ In SVM problem I was facing was liblinear was failing to converge. I tried to so
 ##### AFTER USING STANDARD SCALAR:
 ![image](https://user-images.githubusercontent.com/73839879/168312746-b1a5b15e-c26f-47a0-83b2-8dcc1c8bd254.png)
 
-# GROUP MEMBERS
+
 ### 2. OWAIS ZAHID - 64139
 Problem: The problem was that the dataset was huge and system couldn't bear so have done working on Kaggle like preparing notebook. Also I have checked and applied some data cleaning techniques like removing outliers but it didn't affect the accuracy.
 
