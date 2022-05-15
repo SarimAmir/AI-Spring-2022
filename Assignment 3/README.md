@@ -2,7 +2,7 @@
 ### 1. SARIM AMIR - 63686 
 working on KNN and SVM.
 Problem faced while working on KNN  was that KNN is best suited and usually used on small dataset. Was taking hours to execute. I solved the problem by just only using train.csv file and splitting it into 80-20 train test ratio. Even after this it took 1 hour to give output but It did help me achieved 72% accuracy but i was unable to make csv file of submission to submit on kaggle since I dropped 'id' column from train.csv file. \
-In SVM problem I was facing was liblinear was failing to converge and unable to print k fold accuracy scores.
+In SVM problem I was facing was liblinear was failing to converge and unable to print k fold accuracy scores when i was puttingh cv=10. I changed the value for cv from 10 to 4 and this solved it but was still getting 50% accuracy.
 #### KNN OUTPUT ON DATASPELL IDE:
 
 ![image](https://user-images.githubusercontent.com/73839879/168484589-074b66b2-3c64-4e9a-8e28-96fd43ea30f6.png)
