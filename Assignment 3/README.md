@@ -14,25 +14,8 @@ In SVM problem I was facing was liblinear was failing to converge. I tried to so
 ##### AFTER USING STANDARD SCALAR:
 ![image](https://user-images.githubusercontent.com/73839879/168312746-b1a5b15e-c26f-47a0-83b2-8dcc1c8bd254.png)
 
-### 2. OWAIS ZAHID - 64139
-Problem: The problem was that the dataset was huge and system couldn't bear so have done working on Kaggle like preparing notebook. Also I have checked and applied some data cleaning techniques like removing outliers but it didn't affect the accuracy.
+### 4.ZAIN AHMED SIDDIQUI
+Problems I Faced: Handling the data was a main problem because the data was huge so I come to grips with the data by checking for incorrect data, checking for null values and checking some data info.
 
-Working: The Algorithm I used is KNN (K-Nearest Neighbour) in which I checked accuracy on different neighbors  but got good one / better one on k = 15, so firstly I checked some null values and info and description on the data. 
-Then I applied Cross Validation also. 
-Then I get the test data separated the id column and then predicted the testing data, then make a new dataframe and made submission on Kaggle.
-
-Note: I have made training and perform testing on 6 most related columns with the target using Feature Importance.
-#### KNN OUTPUT ON KAGGLE:
-
-![KAGGLE](https://user-images.githubusercontent.com/62961644/168480575-cdc09291-b318-4623-a64f-bdcdab1a5c45.jpeg)
-
-### 3. MUHAMMAD ZEESHAN BIN SAEED - 64126
-Working on Naive Bayes - Lidstone Smoothing
-
-Problems I Faced: Tackling the Dataset and performing different operations to handle my scenerios.
-
-My Working: The Naive Bayes Naive Bayes - Lidstone Smoothing algorithm is a Bayesian learning approach which I used but firstly I applied Min Max Scaling because Multinomial NB doesn't take negative values.
-
-### KAGGLE OUTPUT
-
-![kaggle score](https://user-images.githubusercontent.com/57366208/168480950-7b909a03-f1a8-4f35-b9da-17f1a771aaa4.JPG)
+Solutions: I solved things of data handling using Pandas and applied Bernoulli Naive Bayes (Laplace Smoothing) and get accuracy then get predictions on testing data and created a new csv file containing id and predicted target values (x2 Columns) then saved as a CSV file and uploaded to kaggle and get the score which is attached in the file.
+![zain](https://user-images.githubusercontent.com/85029018/168480875-8a3583c1-43dd-4562-8461-2a2e7a6773d1.jpeg)
