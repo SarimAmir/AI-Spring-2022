@@ -26,6 +26,14 @@ Note: I have made training and perform testing on 6 most related columns with th
 
 ![KAGGLE](https://user-images.githubusercontent.com/62961644/168481303-91a43ffb-8e58-4815-815f-98b23d771140.jpeg)
 
+### 3. MUHAMMAD ZEESHAN BIN SAEED - 64126
+Working on Naive Bayes - Lidstone Smoothing
+Problems I Faced: Tackling the Dataset and performing different operations to handle my scenerios.
+My Working: The  Naive Bayes algorithm Lidstone Smoothing is a Bayesian learning approach which I used but firstly I applied Min Max Scaling because Multinomial NB doesn't take negative values.
+
+### KAGGLE OUTPUT
+![kaggle score](https://user-images.githubusercontent.com/57366208/168481482-12766750-d182-4a15-bfe3-591f9f48b081.JPG)
+
 
 ### 4.ZAIN AHMED SIDDIQUI
 Problems I Faced: Handling the data was a main problem because the data was huge so I come to grips with the data by checking for incorrect data, checking for null values and checking some data info.
