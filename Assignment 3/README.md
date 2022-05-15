@@ -13,3 +13,16 @@ In SVM problem I was facing was liblinear was failing to converge. I tried to so
 
 ##### AFTER USING STANDARD SCALAR:
 ![image](https://user-images.githubusercontent.com/73839879/168312746-b1a5b15e-c26f-47a0-83b2-8dcc1c8bd254.png)
+
+### 2. OWAIS ZAHID - 64139
+Problem: The problem was that the dataset was huge and system couldn't bear so have done working on Kaggle like preparing notebook. Also I have checked and applied some data cleaning techniques like removing outliers but it didn't affect the accuracy.
+
+Working: The Algorithm I used is KNN (K-Nearest Neighbour) in which I checked accuracy on different neighbors  but got good one / better one on k = 15, so firstly I checked some null values and info and description on the data. 
+Then I applied Cross Validation also. 
+Then I get the test data separated the id column and then predicted the testing data, then make a new dataframe and made submission on Kaggle.
+
+Note: I have made training and perform testing on 6 most related columns with the target using Feature Importance.
+#### KNN OUTPUT ON KAGGLE:
+
+![KAGGLE](https://user-images.githubusercontent.com/62961644/168480575-cdc09291-b318-4623-a64f-bdcdab1a5c45.jpeg)
+
