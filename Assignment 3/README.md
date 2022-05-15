@@ -38,5 +38,5 @@ My Working: The  Naive Bayes algorithm Lidstone Smoothing is a Bayesian learning
 ### 4.ZAIN AHMED SIDDIQUI - 64131
 Problems I Faced: Handling the data was a main problem because the data was huge so I come to grips with the data by checking for incorrect data, checking for null values and checking some data info.
 
-Solutions: I solved things of data handling using Pandas and applied Bernoulli Naive Bayes (Laplace Smoothing) and get accuracy then get predictions on testing data and created a new csv file containing id and predicted target values (x2 Columns) then saved as a CSV file and uploaded to kaggle and get the score which is attached in the file.
+Solutions: I solved things of data handling using Pandas and applied Bernoulli & gaussian Naive Bayes  (Laplace Smoothing) and get accuracy then get predictions on testing data and created a new csv file containing id and predicted target values (x2 Columns) then saved as a CSV file and uploaded to kaggle and get the score which is attached in the file.
 ![zain](https://user-images.githubusercontent.com/85029018/168480875-8a3583c1-43dd-4562-8461-2a2e7a6773d1.jpeg)
