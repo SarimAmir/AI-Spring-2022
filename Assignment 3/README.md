@@ -8,7 +8,7 @@ In SVM problem I was facing was liblinear was failing to converge and unable to 
 ![knn output-dtaspell](https://user-images.githubusercontent.com/73839879/168310337-d3578c60-1202-4e3b-bf2a-5475423ffb68.PNG)
 
 #### SVM OUTPUT ON KAGGLE:
-##### BEFORE USING STANDARD SCALAR:
+
 ![WhatsApp Image 2022-05-13 at 7 32 01 AM](https://user-images.githubusercontent.com/73839879/168313252-9aa10341-73c3-480c-8060-eb5d9a1024ba.jpeg)
 
 
