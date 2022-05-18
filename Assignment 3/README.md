@@ -28,6 +28,8 @@ Working on Naive Bayes - Lidstone Smoothing
 Problems I Faced: Tackling the Dataset and performing different operations to handle my scenerios.
 My Working: The  Naive Bayes algorithm Lidstone Smoothing is a Bayesian learning approach which I used but firstly I applied Min Max Scaling because Multinomial NB doesn't take negative values.
 
+
+
 ### KAGGLE OUTPUT
 ![kaggle score](https://user-images.githubusercontent.com/57366208/168481482-12766750-d182-4a15-bfe3-591f9f48b081.JPG)
 
@@ -37,4 +39,10 @@ Problems I Faced: Handling the data was a main problem because the data was huge
 
 Solutions: I solved things of data handling using Pandas and applied Bernoulli & gaussian Naive Bayes  (Laplace Smoothing) and get accuracy then get predictions on testing data and created a new csv file containing id and predicted target values (x2 Columns) then saved as a CSV file and uploaded to kaggle and get the score which is attached in the file.
 ![zain](https://user-images.githubusercontent.com/85029018/168482073-5be6cba2-977f-42b7-9821-d61357a82f22.jpeg)
+
+
+### 5. SHAH MUHAMMAD AZHAR - 62822
+Problem I Faced: Problem is the data was a main problem because the data was huge so it is time consuming. and at first run accuracy was not that good.
+Solution: I do cross validation, due to this the accuracy is better than the previous one
+![Azharcsv](https://user-images.githubusercontent.com/73800301/168966053-98a4cfda-1ff5-4b28-ad75-925fc655bafd.PNG)
 
