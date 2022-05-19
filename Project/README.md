@@ -17,10 +17,13 @@ HOW IT RESOLVED: It resolved by passing the parameters in loop it checked the wh
 FIRST BY MAXIMIZING THE LEAF SIZE & NEIGHBOURS
 ![partproj](https://user-images.githubusercontent.com/62961644/169421295-98b659cb-31a3-4f4b-8c11-9cd144a6add8.PNG)
 
-AUTOMATICALLY TUNED SS BY GRID:
+AUTOMATICALLY TUNED SS BY GRID
 ![partproj2](https://user-images.githubusercontent.com/62961644/169421380-8dc1c75f-a469-4a1e-af65-e4140290a832.PNG)
 
-THIRD BY MAXIMIZING THE THRESHOLD:
+THIRD BY MAXIMIZING THE THRESHOLD
 ![PROJ3](https://user-images.githubusercontent.com/62961644/169421346-50d03a43-68d5-4b7b-807a-141cf3f8f778.PNG)
  
  what I observed through my work the maximum score or accuracy we can found through KNN is about approx 70 
+FINAL SCORE
+![KNNrecent](https://user-images.githubusercontent.com/62961644/169421854-7ca480c1-504f-49e5-a4dd-cf845496e092.PNG)
+
