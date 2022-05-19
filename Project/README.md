@@ -4,3 +4,8 @@ In SVM problem I was facing was liblinear was failing to converge and unable to 
 ### 2. ZAIN AHMED SIDDIQUI - 64131
 If your test data set has a categorical variable of a category that wasn't present in the training data set, the Naive Bayes model will assign it zero probability and won't be able to make any predictions in this regard.After using grid search we found that the best accuracy is at [paramater =10.0] and after trying several times with diffrent parameters we got no change.
 ![kaggle score](https://user-images.githubusercontent.com/85029018/169362565-7f3181dc-2fde-486a-84a3-31c3059443bc.JPG)
+### 3. ZEESHAN BIN SAEED - 64126
+One of the disadvantages of grid search is that when it comes to dimensionality, it endures when assessing the number of hyperparameters develops exponentially. In any case, there's no ensure that the look will create the perfect arrangement, because it usually finds one by aliasing around the proper set and the the best accuracy i got 0.548 at 0.5 because there were no change found after trying other values like 0.8, 0.3 , 0.6.
+![kaggle snip](https://user-images.githubusercontent.com/57366208/169365530-4c5891e9-4f41-461e-b8d8-6c2dfe390fe1.JPG)
+
+
